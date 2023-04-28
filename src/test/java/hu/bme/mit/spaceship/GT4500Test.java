@@ -26,6 +26,7 @@ public class GT4500Test {
     assertEquals(true, result);
   }
 
+
   @Test
   public void fireTorpedo_All_Success(){
     // Arrange
