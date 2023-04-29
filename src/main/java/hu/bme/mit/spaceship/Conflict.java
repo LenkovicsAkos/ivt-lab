@@ -4,6 +4,6 @@ package hu.bme.mit.spaceship;
 * Weapon firing mode enumeration
 *
 */
-public enum FiringMode {
+public enum Conflict{
   SINGLE, ALL, SWITCHING
 }
