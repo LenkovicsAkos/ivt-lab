@@ -1,0 +1,10 @@
+Test1
+- SINGLE módban kilő egy torpedót a primaryól
+Test2
+- SINGLE módban kilő egy torpedót a secondarybol
+Test3
+- SINGLE módban prim ures, eyert secbol lo egy torpedót
+Test4
+- SINGLE módban nem lol mert ures
+Test5
+- ALL módban kilő két torpedot
